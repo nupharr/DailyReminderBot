@@ -11,8 +11,6 @@
 
 ## 📦 Установка
 
-1. Клонируй репозиторий:
-
 ```bash
 git clone https://github.com/nupharr/DailyReminderBot.git
 
